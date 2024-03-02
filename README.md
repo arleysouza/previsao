@@ -12,9 +12,9 @@ npm run dev
 ```
 Utilize as URLs a seguir para testar o código no navegador:
 
-- [Previsão do tempo](http://localhost:3010/previsao/caçapava);
-- [Previsão para 7 dias] (http://localhost:3010/previsao7/caçapava);
-- [Previsão estendida] (http://localhost:3010/estendida/caçapava).
+- Previsão do tempo (http://localhost:3010/previsao/caçapava);
+- Previsão para 7 dias (http://localhost:3010/previsao7/caçapava);
+- Previsão estendida (http://localhost:3010/estendida/caçapava).
 
 
 ### Objetivos
