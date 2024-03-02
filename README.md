@@ -24,4 +24,4 @@ Utilize as URLs a seguir para testar o código no navegador:
 ### Requisitos
 - Os testes da classe Cptec deverão estar no arquivo test/cptec.test.ts;
 - Os testes da classe PrevisaoController deverão estar no arquivo test/previsaoController.test.ts;
-- Os testes das requisições HTTP deverõa estar no arquivo test/server.test.ts.
+- Os testes das requisições HTTP deverão estar no arquivo test/server.test.ts.
