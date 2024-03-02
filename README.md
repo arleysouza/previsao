@@ -11,12 +11,12 @@ npm i
 npm run dev
 ```
 Utilize as URLs a seguir para testar o código no navegador:
-```
-http://localhost:3010/previsao/caçapava
-http://localhost:3010/previsao7/caçapava
-http://localhost:3010/estendida/caçapava
 
-```
+- [Previsão do tempo](http://localhost:3010/previsao/caçapava);
+- [Previsão para 7 dias] (http://localhost:3010/previsao7/caçapava);
+- [Previsão estendida] (http://localhost:3010/estendida/caçapava).
+
+
 ### Objetivos
 - Fazer os testes unitários dos métodos das classes Cptec e PrevisaoController - use Jest. Não é necessário testa o método `removerAcentos`; 
 - Fazer os testes das requisições HTTP - use Supertest e Jest.
