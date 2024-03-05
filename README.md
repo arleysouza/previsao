@@ -1,8 +1,8 @@
-## Atividade 1 - Testes unitários e de integração
+## Atividade - Testes unitários e de integração
 
 O código faz requisições no Web Service do CPTEC para obter as previsões do tempo (http://servicos.cptec.inpe.br/XML).
 
-### Intruções de uso
+### Instruções de uso
 Todos os pacotes necessários já estão no `package.json`.
 ```
 git clone https://github.com/arleysouza/previsao.git
@@ -18,7 +18,7 @@ Utilize as URLs a seguir para testar o código no navegador:
 
 
 ### Objetivos
-- Fazer os testes unitários dos métodos das classes Cptec e PrevisaoController - use Jest. Não é necessário testa o método `removerAcentos`; 
+- Fazer os testes unitários dos métodos das classes Cptec e PrevisaoController - use Jest. Não é necessário testar o método `removerAcentos`; 
 - Fazer os testes das requisições HTTP - use Supertest e Jest.
 
 ### Requisitos
